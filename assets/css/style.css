@@ -81,3 +81,36 @@ ul{
     display: flex;
     padding-bottom: 20px;
 }
+
+@media only screen and (max-width: 414px) {
+    .container{
+        margin: auto;
+        font-size: 14px;
+        padding: 10px 0px;
+    }
+
+    form input{
+        width: 80%;
+        border-radius: 50px;
+        font-size: 12px;
+        height: 30px;
+        padding: 0 10px;
+    }
+    
+    form button{
+        font-size: 12px;
+        height: 30px;
+        width: 100%;
+    }
+
+    .tabela{
+        padding: 0px 20px;
+        justify-content: space-between;
+        display: flex;
+        padding-bottom: 20px;
+    }
+
+    .h2-IMC, form{
+        margin: 10px;
+    }
+}
