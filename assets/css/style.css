@@ -82,7 +82,7 @@ ul{
     padding-bottom: 20px;
 }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 563px) {
     .container{
         margin: auto;
         font-size: 14px;
