@@ -113,4 +113,8 @@ ul{
     .h2-IMC, form{
         margin: 10px;
     }
+
+    .res{
+        padding-left: 20px;
+    }
 }
