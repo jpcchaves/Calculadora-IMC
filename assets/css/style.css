@@ -65,6 +65,16 @@ form button:hover{
     background-color: var(--primary-color-darker);
 }
 
+.paragrafo-resultado, .bad{
+    background-color: #68e287;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.bad{
+    background-color:#e26868;
+}
+
 ul{
     margin: 0;
     padding: 0;

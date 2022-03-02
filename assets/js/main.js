@@ -24,3 +24,4 @@ form.addEventListener("submit", function(evento){
         res.innerHTML += `<p>Seu <strong>IMC é ${IMC}</strong>, logo, você está com <strong>Obesidade grau 3.</strong></p>`
     }
 })
+
